@@ -20,7 +20,7 @@ Download:
 source code: http://sourceforge.net/projects/qtmib/files/qtmib
 Ubuntu package: http://sourceforge.net/projects/qtmib/files/qtmib.deb
 
-Dependencies: QT4 development libraries, net-snmp (http://www.net-snmp.org/)
+Dependencies: QT4 development libraries (qtbase5-dev and libqt5core5a), net-snmp (http://www.net-snmp.org/)
 
 Installation
 
