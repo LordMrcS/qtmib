@@ -3802,7 +3802,7 @@ then
 elif test -f /usr/lib/qt4/libQtCore.so
 then
 	echo "Found qt4 library in /usr/lib/qt4 directory"
-elif test -f /usr/lib/libQt5Core.so
+elif test -f /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
 then
 	echo "Found Qt5 library in /usr/lib directory"
 else
